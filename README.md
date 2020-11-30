@@ -1,6 +1,7 @@
 ### 嗨咯 👋
-这里应该没有你要找的东西
-但是你可以收获一首诗：
+这里应该没有你要找的东西🤔
+
+但是你可以收获一首诗📫：
 
 逆行的钟和每分钟心跳两千四百下的蜂鸟
 
@@ -10,7 +11,7 @@
 
 关于时间       关于爱  
 
-                             ——《本杰明•巴顿奇事》 
+——《本杰明•巴顿奇事》 
 
 <!--
 **Liyx55/Liyx55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
