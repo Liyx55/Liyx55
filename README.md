@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=username)
 <!-- HTML -->
 <div align="left"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Liyx55" />
+  <img src="https://visitor-badge.glitch.me/badge?Liyx55" />
 </div>
