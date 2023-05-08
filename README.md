@@ -15,17 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="#">
+  <img align="right" src="https://metrics.lecoq.io/Liyx55?template=terminal" />
+</a>
+
 ![Yanxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liyx55)
-<!-- Markdown -->
-![](https://visitor-badge.glitch.me/badge?username=Liyx55)
-<!-- HTML -->
-<div align="left"> 
-  <img src="https://visitor-badge.glitch.me/badge?username=Liyx55" />
-</div>
-
-
-![](https://visitor-badge.glitch.me/badge?username=Liyx55)
-<!-- HTML -->
-<div align="left"> 
-  <img src="https://visitor-badge.glitch.me/username=Liyx55" />
-</div>
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyx55&theme=vue-dark&layout=compact">
