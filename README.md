@@ -26,17 +26,23 @@
     <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
-  </p>
-
-
-
-<a href="https://github.com/JACK-ZHANG-coming">
+ <a href="https://github.com/JACK-ZHANG-coming">
 
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Liyx55&column=7&theme=onedark"/>
   </p>
 
 </a>
+ 
+
+<!--img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyx55&theme=vue-dark&layout=compact"-->
+
+  </p>
+<!--img width="340px" src="https://github-readme-stats.vercel.app/api?username=Liyx55&theme=vue-dark&count_private=true&show_icons=true"-->
+
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=Liyx55&theme=vue-dark&count_private=true&show_icons=true">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyx55&theme=vue-dark&layout=compact">
+
 <!--
 **Liyx55/Liyx55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,6 +57,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img width="340px" src="https://github-readme-stats.vercel.app/api?username=Liyx55&theme=vue-dark&count_private=true&show_icons=true">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyx55&theme=vue-dark&layout=compact">
