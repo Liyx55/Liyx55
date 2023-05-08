@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 -->
 ![Yanxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liyx55)
 <!-- Markdown -->
-![](https://visitor-badge.glitch.me/badge?page_id=Liyx55)
+![](https://visitor-badge.glitch.me/badge?username=Liyx55)
 <!-- HTML -->
 <div align="left"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Liyx55" />
+  <img src="https://visitor-badge.glitch.me/badge?username=Liyx55" />
 </div>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Liyx55)
+![](https://visitor-badge.glitch.me/badge?username=Liyx55)
 <!-- HTML -->
 <div align="left"> 
-  <img src="https://visitor-badge.glitch.me/badge?Liyx55" />
+  <img src="https://visitor-badge.glitch.me/username=Liyx55" />
 </div>
