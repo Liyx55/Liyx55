@@ -39,8 +39,7 @@
 
   </p>
 <!--img width="340px" src="https://github-readme-stats.vercel.app/api?username=Liyx55&theme=vue-dark&count_private=true&show_icons=true"-->
-
-<img width="340px" src="https://github-readme-stats.vercel.app/api?username=Liyx55&theme=vue-dark&count_private=true&show_icons=true">
+<img align="right" src="https://metrics.lecoq.io/Liyx55?template=terminal" />
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyx55&theme=vue-dark&layout=compact">
 
 <!--
