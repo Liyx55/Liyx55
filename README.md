@@ -1,9 +1,9 @@
-### 嗨咯 👋
+### Hello 👋
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">嗨咯 👋</h2>
- <p align="center">这里应该没有你要找的东西🤔</p>
+ <h2 align="center">Hello 👋</h2>
+ <p align="center">What are you looking for?🤔</p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -38,7 +38,7 @@
 <!--img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyx55&theme=vue-dark&layout=compact"-->
 
   </p>
-<!--img width="340px" src="https://github-readme-stats.vercel.app/api?username=Liyx55&theme=vue-dark&count_private=true&show_icons=true"-->
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=Liyx55&theme=vue-dark&count_private=true&show_icons=true">
 <img align="right" src="https://metrics.lecoq.io/Liyx55?template=terminal" />
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liyx55&theme=vue-dark&layout=compact">
 
